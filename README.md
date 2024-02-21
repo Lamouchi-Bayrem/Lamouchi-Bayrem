@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamouchi-bayrem&label=Profile%20views&color=0e75b6&style=flat" alt="lamouchi-bayrem" /> </p>
 
-- 🔭I'm currently working on embedded system and IA **Cyberbots**
+- 🔭I'm currently working on embedded system and IA ** **
 
 - 🌱 I’m currently Electrical engineering student **automation and industrial computing**
 
